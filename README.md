@@ -22,6 +22,8 @@ Pero, veámoslo con dos ejemplos desarrollados en los últimos años, que ejempl
 
 ## La película Sin City, de Frank Miller.
 
+![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20cartel.jpg)
+
 En el año 2005 se estrenaba la película *Sin city*, adaptación de varios comics de Frank Miller dirigida por Robert Rodriguéz. Aunque no era la primera adaptación al cine de un comic, sí que causo un antes y un después en ese tipo de formato. Todo espectador recuerda el sabor de boca único que dejaba este film tras su visualización, pero, ¿Cuál es el motivo?
 
 Vayamos unos años hacia atrás: La industria de Hollywood hacía tiempo que había explorado –y explotado- el mundo de los contenidos generados por ordenador. Este suculento recurso había permitido elaborar escenas antes inimaginables. Bien sea generando todo el contenido por ordenador, como en películas de animación, o bien introduciendo elementos mezclados con filmaciones de actores y escenarios reales, como era habitual en las películas de acción.
@@ -39,6 +41,8 @@ Esto pudiera parecer simplemente un cambio de estilo o una experimentación cine
 Ningún espectador quedo ajeno a este hecho, la obra se percibía totalmente diferente a sus predecesoras, y, sin embargo, habían empleado los mismos medios. Las imágenes reales se mezclaban con el contenido digital, todo esto a su vez con el audio y, de hecho, se empleaban patrones y formas típicas del resto del cine.
 
 Con los mismos medios, había nacido una nueva **hibridación**.
+
+![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20escena%202.JPG)
 
 ## La tecnología FlexSense, de Microsoft Research
 
