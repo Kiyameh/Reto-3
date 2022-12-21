@@ -1,9 +1,11 @@
-#Planteamiento
+#Planteamiento#
+
 Corría el año 2013 cuando Lev Manovich, en su libro *el software toma el mando*, exponía y analizaba la evolución de los medios actuales desde su característico punto de vista. En él, entre un sinfín de temas, analizaba y desarrollaba la idea de hibridación de los nuevos medios, y lo diferenciaba del concepto de multimedia, que ya era frecuente en las conversaciones académicas de la época. Todo ello, con una forma de ver los nuevos medios -un punto de vista- que sigue plenamente vigente hoy en día, absortos como nos encontramos en la era de la tecnología. 
 
 Acompañadme en este viaje, donde veremos el concepto de hibridación, desde el punto de vista de Manovich, analizando dos casos disruptivos de la época digital. 
 
-#El concepto
+#El concepto#
+
 Ya en los años 2000, era de uso común el vocablo multimedia. En 1977, *Kay y Golberg*, lo habían pronosticado con su idea de metamedio: una plataforma que albergaba una multitud de medios existentes y nuevos. Y no podrían haber estado más acertados; Durante toda la década de los 90 se produjo una intensa proliferación de lo que hoy conocemos como multimedia. 
 
 Pero, ¿A que nos referimos exactamente con el concepto de multimedia? En *el software toma el mando*, podemos encontrar una aproximación a este término:
@@ -35,6 +37,7 @@ Con los mismos medios, había nacido una nueva hibridación.
 
 
 #La tecnología FlexSense, de Microsoft Research
+
 Volemos esta vez un poco más cerca en el tiempo. Concretamente, volvamos a la actualidad. Y lo hacemos para hablar de una tecnología que supone –o, mejor dicho, supondrá- un claro ejemplo de hibridación: la lámina FlexSense. 
 No es de extrañar que a un porcentaje alto de los lectores ni siquiera les suene ese nombre; Apenas hay un par de noticias y un pequeño portfolio en la página de *Media Interaction Lab* sobre esta tecnología presentada en 2014. Así pues, describamos en primer lugar nuestro caso de estudio:
 Según el propio portfolio, es una superficie deformable transparente autosensible; lo cual nos dice poco, así que concretemos un poco más: FlexSense es una lámina flexible y transparente dotada de multitud de sensores que pueden transmitir en tiempo real su posición y la forma en la que se está deformando. Aprovechemos, no obstante, que un video –hibrido- vale más que mil palabras, y veámoslo en acción: 
