@@ -12,6 +12,9 @@ Pero, ¿A que nos referimos exactamente con el concepto de multimedia? En *el so
 
 >“[En los contenidos multimedia] conviven, de forma contigua, distintos tipos de medios … y están situados uno junto al otro, pero sus interfaces y técnicas no interaccionan” Manovic, 2013.
 
+  
+    
+    
 
 
 O, visto de otra forma: En los contenidos multimedia, se unen varios medios de diferentes tipos, pero el conjunto de todos ellos no es más que la suma de sus partes. Sin embargo, basta con observar algunos casos reales de multimedia, para ver que el concepto se queda algo escaso; hace tiempo que la evolución de los medios ha ido un paso más allá. Es en este punto cuando Manovich propone el concepto de **hibridación**:
