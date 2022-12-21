@@ -26,7 +26,7 @@ Pero, veámoslo con dos ejemplos desarrollados en los últimos años, que ejempl
 
 ![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20cartel.jpg)
 
-Cartel con el que se publico Sin City
+*Cartel con el que se publico Sin City*
 
 
 
@@ -44,7 +44,7 @@ Fue en ese punto cuando apareció *Sin City*, con un estilo totalmente rompedor 
 
 ![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20escena%202.JPG)
 
-Clasica escena de la pelicula
+*Clasica escena de la pelicula*
 
 
 Esto pudiera parecer simplemente un cambio de estilo o una experimentación cinematográfica más, pero consiguieron que la experiencia fuera totalmente diferente. Acababan de crear de forma magistral una nueva “especie”: Ya no estábamos viendo una película de acción basada en un comic, estábamos experimentando un **comic en movimiento**.
@@ -59,7 +59,7 @@ Con los mismos medios, había nacido una nueva **hibridación**.
 
 ![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Flexsense.jpg)
 
-Tecnología FlexSense en acción
+*Tecnología FlexSense en acción*
 
 Volemos esta vez un poco más cerca en el tiempo. Concretamente, volvamos a la actualidad. Y lo hacemos para hablar de una tecnología que supone –o, mejor dicho, supondrá- un claro ejemplo de hibridación: la lámina *FlexSense*.
 
