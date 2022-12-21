@@ -23,6 +23,9 @@ Pero, veámoslo con dos ejemplos desarrollados en los últimos años, que ejempl
 ## La película Sin City, de Frank Miller.
 
 ![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20cartel.jpg)
+Cartel con el que se publico Sin City
+
+
 
 En el año 2005 se estrenaba la película *Sin city*, adaptación de varios comics de Frank Miller dirigida por Robert Rodriguéz. Aunque no era la primera adaptación al cine de un comic, sí que causo un antes y un después en ese tipo de formato. Todo espectador recuerda el sabor de boca único que dejaba este film tras su visualización, pero, ¿Cuál es el motivo?
 
@@ -36,17 +39,22 @@ Eran, sencillamente, **películas de acción basadas en comics**.
 
 Fue en ese punto cuando apareció *Sin City*, con un estilo totalmente rompedor para la época. Los efectos digitales casi gobernaban la película, se fusionaban con elementos reales, sí, pero no para lograr una sensación de realismo, sino para todo lo contrario. Todo el film tenía un aire de artificial, de irreal, que supieron potenciar de forma sublime jugando con la combinación de colores tan característico de la obra.
 
+![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20escena%202.JPG)
+Clasica escena de la pelicula
+
+
 Esto pudiera parecer simplemente un cambio de estilo o una experimentación cinematográfica más, pero consiguieron que la experiencia fuera totalmente diferente. Acababan de crear de forma magistral una nueva “especie”: Ya no estábamos viendo una película de acción basada en un comic, estábamos experimentando un **comic en movimiento**.
 
 Ningún espectador quedo ajeno a este hecho, la obra se percibía totalmente diferente a sus predecesoras, y, sin embargo, habían empleado los mismos medios. Las imágenes reales se mezclaban con el contenido digital, todo esto a su vez con el audio y, de hecho, se empleaban patrones y formas típicas del resto del cine.
 
 Con los mismos medios, había nacido una nueva **hibridación**.
 
-![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20escena%202.JPG)
+
 
 ## La tecnología FlexSense, de Microsoft Research
 
 ![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Flexsense.jpg)
+Tecnología FlexSense en acción
 
 Volemos esta vez un poco más cerca en el tiempo. Concretamente, volvamos a la actualidad. Y lo hacemos para hablar de una tecnología que supone –o, mejor dicho, supondrá- un claro ejemplo de hibridación: la lámina *FlexSense*.
 
