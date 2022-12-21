@@ -1,4 +1,4 @@
-## Planteamiento
+##Planteamiento
 Corría el año 2013 cuando Lev Manovich, en su libro *el software toma el mando*, exponía y analizaba la evolución de los medios actuales desde su característico punto de vista. En él, entre un sinfín de temas, analizaba y desarrollaba la idea de hibridación de los nuevos medios, y lo diferenciaba del concepto de multimedia, que ya era frecuente en las conversaciones académicas de la época. Todo ello, con una forma de ver los nuevos medios -un punto de vista- que sigue plenamente vigente hoy en día, absortos como nos encontramos en la era de la tecnología. 
 Acompañadme en este viaje, donde veremos el concepto de hibridación, desde el punto de vista de Manovich, analizando dos casos disruptivos de la época digital. 
 
@@ -6,6 +6,7 @@ Acompañadme en este viaje, donde veremos el concepto de hibridación, desde el 
 Ya en los años 2000, era de uso común el vocablo multimedia. En 1977, *Kay y Golberg*, lo habían pronosticado con su idea de metamedio: una plataforma que albergaba una multitud de medios existentes y nuevos. Y no podrían haber estado más acertados; Durante toda la década de los 90 se produjo una intensa proliferación de lo que hoy conocemos como multimedia. 
 Pero, ¿A que nos referimos exactamente con el concepto de multimedia? En *el software toma el mando*, podemos encontrar una aproximación a este término:
 >[en los contenidos multimedia] conviven, de forma contigua, distintos tipos de medios … y están situados uno junto al otro, pero sus interfaces y técnicas no interaccionan.-Manovic, 2013.  
+>
 O, visto de otra forma: En los contenidos multimedia, se unen varios medios de diferentes tipos, pero el conjunto de todos ellos no es más que la suma de sus partes. Sin embargo, basta con observar algunos casos reales de multimedia, para ver que el concepto se queda algo escaso; hace tiempo que la evolución de los medios ha ido un paso más allá. Es en este punto cuando Manovich propone el concepto de hibridación: 
 >En los híbridos, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.-Manovich, 2013. 
 Como podemos ver, este concepto introduce algo más en la ecuación. Ya no solo se están agrupando una serie de contenidos en un mismo lugar, si no que de esta agrupación esta “naciendo” algo nuevo. Se están hibridando los medios para generar una nueva “especie” multimedia. 
