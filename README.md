@@ -85,6 +85,9 @@ Apelando a la metáfora de la biología que emplea Manovich en su libro, la hibr
 
 *La hibridación es la evolución de los nuevos medios.*
 
+---
+Andoni Gallardo Izcue. andoni@uoc.edu
+
 
  ---
 
