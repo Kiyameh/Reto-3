@@ -10,11 +10,7 @@ Ya en los años 2000, era de uso común el vocablo multimedia. En 1977, *Kay y G
 
 Pero, ¿A que nos referimos exactamente con el concepto de multimedia? En *el software toma el mando*, podemos encontrar una aproximación a este término:
 
->“[En los contenidos multimedia] conviven, de forma contigua, distintos tipos de medios … y están situados uno junto al otro, pero sus interfaces y técnicas no interaccionan” Manovic, 2013.
-
-  
-    
-    
+>“[En los contenidos multimedia] conviven, de forma contigua, distintos tipos de medios … y están situados uno junto al otro, pero sus interfaces y técnicas no interaccionan” Manovich, 2013.
 
 
 O, visto de otra forma: En los contenidos multimedia, se unen varios medios de diferentes tipos, pero el conjunto de todos ellos no es más que la suma de sus partes. Sin embargo, basta con observar algunos casos reales de multimedia, para ver que el concepto se queda algo escaso; hace tiempo que la evolución de los medios ha ido un paso más allá. Es en este punto cuando Manovich propone el concepto de **hibridación**:
@@ -29,6 +25,7 @@ Pero, veámoslo con dos ejemplos desarrollados en los últimos años, que ejempl
 ## La película Sin City, de Frank Miller.
 
 ![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20cartel.jpg)
+
 Cartel con el que se publico Sin City
 
 
@@ -46,6 +43,7 @@ Eran, sencillamente, **películas de acción basadas en comics**.
 Fue en ese punto cuando apareció *Sin City*, con un estilo totalmente rompedor para la época. Los efectos digitales casi gobernaban la película, se fusionaban con elementos reales, sí, pero no para lograr una sensación de realismo, sino para todo lo contrario. Todo el film tenía un aire de artificial, de irreal, que supieron potenciar de forma sublime jugando con la combinación de colores tan característico de la obra.
 
 ![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Sin%20city%20escena%202.JPG)
+
 Clasica escena de la pelicula
 
 
@@ -60,6 +58,7 @@ Con los mismos medios, había nacido una nueva **hibridación**.
 ## La tecnología FlexSense, de Microsoft Research
 
 ![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Flexsense.jpg)
+
 Tecnología FlexSense en acción
 
 Volemos esta vez un poco más cerca en el tiempo. Concretamente, volvamos a la actualidad. Y lo hacemos para hablar de una tecnología que supone –o, mejor dicho, supondrá- un claro ejemplo de hibridación: la lámina *FlexSense*.
