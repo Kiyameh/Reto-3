@@ -42,7 +42,7 @@ Con los mismos medios, había nacido una nueva **hibridación**.
 
 ## La tecnología FlexSense, de Microsoft Research
 
-!(/Flexsense.jpg)
+![enter image description here](https://raw.githubusercontent.com/Kiyameh/Reto-3/main/Flexsense.jpg)
 
 Volemos esta vez un poco más cerca en el tiempo. Concretamente, volvamos a la actualidad. Y lo hacemos para hablar de una tecnología que supone –o, mejor dicho, supondrá- un claro ejemplo de hibridación: la lámina *FlexSense*.
 
